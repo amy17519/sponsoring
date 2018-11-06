@@ -1,7 +1,7 @@
 ---
 title: "<img src= 'img/placeholder.png' width = '40%'></br></br>satRday"
-subtitle: "CITY"
-author: "DATE"
+subtitle: "Los Angeles"
+# author: "DATE"
 #date: "2016/12/12"
 output:
   xaringan::moon_reader:
@@ -135,21 +135,30 @@ class: slidish
 
 ### 2017 
 
-+ Cape Town 
++ Cape Town
 
 + Puerto Rico
 
 ### 2018 
 
-+ Cape Town 
++ Cape Town
 
 + Cardiff
 
 + Amsterdam 
 
-+ Belgrade 
++ Belgrade
 
-+ Washington 
++ Washington DC
+
++ Santiago
+
+### 2019
+
++ Newcastle
+
++ Santiago
+
 ]
 
 .pull-right[
@@ -259,9 +268,9 @@ class: contact
 
 # Contact 
 
-## WHO WHO
+## Amy Tzu-Yu Chen, Main Organizer 
 
-### this@that.com
+### https://www.linkedin.com/in/amy17519/
 
-### who you gonna call
+### satrdays.losangeles@gmail.com 
 
